@@ -18,10 +18,11 @@ set through kernel config CONFIG_BCM40181=m
 
 my kernel options may need to compile the driver
 ================================================
+CONFIG_CFG80211=m
+
 CONFIG_USB_SUSPEND is not set
 
 CONFIG_WIRELESS_EXT=y
-
 
 CONFIG_WIFI_CONTROL_FUNC=y
 
