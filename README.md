@@ -1,4 +1,4 @@
-WiFi RK901 not stable
+WiFi RK901 may be not stable
 
 my kernel options may need to compile the driver
 CONFIG_USB_SUSPEND is not set
