@@ -18,7 +18,7 @@ set through kernel config CONFIG_BCM40181=m
 
 my kernel options may need to compile the driver
 ================================================
-CONFIG_CFG80211=m
+CONFIG_CFG80211=m or y
 
 CONFIG_USB_SUSPEND is not set
 
